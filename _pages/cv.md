@@ -14,7 +14,7 @@ Education
 * B.A. in Integrative Biology (with a minor in Latin), University of California, Berkeley, 2011
 * M.A. in Anthropology (subfield: Biological Anthropology), University of Florida, 2012
 * Ph.D in Anthropology (subfield: Biological Anthropology), University of Florida, 2017
-* * "Genetic Inferences on Human Evolutionary History in southern Arabia and the Levant"
+* * *"Genetic Inferences on Human Evolutionary History in southern Arabia and the Levant"*
 
 Work experience
 ======
