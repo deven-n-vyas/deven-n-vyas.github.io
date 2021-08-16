@@ -1,8 +1,8 @@
 ---
 title: "Bayesian analyses of Yemeni mitochondrial genomes suggest multiple migration events with Africa and Western Eurasia"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/BayesianYemen
+excerpt: 'This was my first published paper. I conduct Bayesian phylogenetic analyses of Yemeni mitochondrial diversity to understand human migration in southern Arabia.'
 date: 2015-11-14
 venue: 'American Journal of Physical Anthropology'
 paperurl: 'https://doi.org/10.1002/ajpa.22890'
