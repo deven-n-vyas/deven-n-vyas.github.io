@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deven N. Vyas - Anthropological Geneticist"
+title                    : "Deven N. Vyas"
 title_separator          : "-"
 name                     : &name "Deven Nikunj Vyas"
 description              : &description "personal description"
@@ -83,10 +83,10 @@ author:
   name             : "Deven N Vyas"
   avatar           : "profile.png"
   bio              : "Anthropologic geneticist interested in learning about (pre)history using an"
-  location         : "Stony Brook University"
-  employer         : "RF at Stony Brook University"
-  pubmed           : " "
-  googlescholar    : " "
+  location         : "Department of Ecology and Evolution / Veeramah Lab"
+  employer         : "Stony Brook University"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
